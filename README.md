@@ -1,1 +1,1 @@
-# Aula-4---Spring-Data-JPA-e-PostgreSQL
+Aula 3 - Automação e Endpoints REST com Spring AI
